@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Dolls on the steps</title>
+  <desc id="desc">Placeholder illustration of dolls arranged on the steps</desc>
+<rect width="800" height="600" fill="#f6ecd6"/>
+<rect x="14" y="14" width="772" height="572" fill="none" stroke="#c9a866" stroke-width="1.5"/><rect x="24" y="24" width="752" height="552" fill="none" stroke="#c9a866" stroke-width=".7" opacity=".7"/><circle cx="40" cy="22" r="2" fill="#c9a866"/><circle cx="40" cy="578" r="2" fill="#c9a866"/><circle cx="80" cy="22" r="2" fill="#c9a866"/><circle cx="80" cy="578" r="2" fill="#c9a866"/><circle cx="120" cy="22" r="2" fill="#c9a866"/><circle cx="120" cy="578" r="2" fill="#c9a866"/><circle cx="160" cy="22" r="2" fill="#c9a866"/><circle cx="160" cy="578" r="2" fill="#c9a866"/><circle cx="200" cy="22" r="2" fill="#c9a866"/><circle cx="200" cy="578" r="2" fill="#c9a866"/><circle cx="240" cy="22" r="2" fill="#c9a866"/><circle cx="240" cy="578" r="2" fill="#c9a866"/><circle cx="280" cy="22" r="2" fill="#c9a866"/><circle cx="280" cy="578" r="2" fill="#c9a866"/><circle cx="320" cy="22" r="2" fill="#c9a866"/><circle cx="320" cy="578" r="2" fill="#c9a866"/><circle cx="360" cy="22" r="2" fill="#c9a866"/><circle cx="360" cy="578" r="2" fill="#c9a866"/><circle cx="400" cy="22" r="2" fill="#c9a866"/><circle cx="400" cy="578" r="2" fill="#c9a866"/><circle cx="440" cy="22" r="2" fill="#c9a866"/><circle cx="440" cy="578" r="2" fill="#c9a866"/><circle cx="480" cy="22" r="2" fill="#c9a866"/><circle cx="480" cy="578" r="2" fill="#c9a866"/><circle cx="520" cy="22" r="2" fill="#c9a866"/><circle cx="520" cy="578" r="2" fill="#c9a866"/><circle cx="560" cy="22" r="2" fill="#c9a866"/><circle cx="560" cy="578" r="2" fill="#c9a866"/><circle cx="600" cy="22" r="2" fill="#c9a866"/><circle cx="600" cy="578" r="2" fill="#c9a866"/><circle cx="640" cy="22" r="2" fill="#c9a866"/><circle cx="640" cy="578" r="2" fill="#c9a866"/><circle cx="680" cy="22" r="2" fill="#c9a866"/><circle cx="680" cy="578" r="2" fill="#c9a866"/><circle cx="720" cy="22" r="2" fill="#c9a866"/><circle cx="720" cy="578" r="2" fill="#c9a866"/><circle cx="760" cy="22" r="2" fill="#c9a866"/><circle cx="760" cy="578" r="2" fill="#c9a866"/>
+<rect x="80.0" y="470" width="640" height="70" rx="3" fill="#fffdf7" stroke="#c9a866" stroke-width="2"/>
+<rect x="80.0" y="470" width="640" height="8" fill="#a33a2a"/>
+<path d="M153 476 Q155 442 168 443 Q181 442 183 476Z" fill="#d9a03a"/><circle cx="168" cy="432" r="11" fill="#e8b98a"/><path d="M158 426 Q168 412 178 426Z" fill="#d9a03a"/>
+<path d="M269 476 Q271 442 284 443 Q297 442 299 476Z" fill="#2e5a48"/><circle cx="284" cy="432" r="11" fill="#e8b98a"/><path d="M274 426 Q284 412 294 426Z" fill="#d9a03a"/>
+<path d="M385 476 Q387 442 400 443 Q413 442 415 476Z" fill="#1f2d4f"/><circle cx="400" cy="432" r="11" fill="#e8b98a"/><path d="M390 426 Q400 412 410 426Z" fill="#d9a03a"/>
+<path d="M501 476 Q503 442 516 443 Q529 442 531 476Z" fill="#7a3e6b"/><circle cx="516" cy="432" r="11" fill="#e8b98a"/><path d="M506 426 Q516 412 526 426Z" fill="#d9a03a"/>
+<path d="M617 476 Q619 442 632 443 Q645 442 647 476Z" fill="#d9622f"/><circle cx="632" cy="432" r="11" fill="#e8b98a"/><path d="M622 426 Q632 412 642 426Z" fill="#d9a03a"/>
+<rect x="140.0" y="400" width="520" height="70" rx="3" fill="#fffdf7" stroke="#c9a866" stroke-width="2"/>
+<rect x="140.0" y="400" width="520" height="8" fill="#d9a03a"/>
+<path d="M188 406 Q190 372 203 373 Q216 372 218 406Z" fill="#2e5a48"/><circle cx="203" cy="362" r="11" fill="#e8b98a"/><path d="M193 356 Q203 342 213 356Z" fill="#d9a03a"/>
+<path d="M254 406 Q256 372 269 373 Q282 372 284 406Z" fill="#1f2d4f"/><circle cx="269" cy="362" r="11" fill="#e8b98a"/><path d="M259 356 Q269 342 279 356Z" fill="#d9a03a"/>
+<path d="M319 406 Q321 372 334 373 Q347 372 349 406Z" fill="#7a3e6b"/><circle cx="334" cy="362" r="11" fill="#e8b98a"/><path d="M324 356 Q334 342 344 356Z" fill="#d9a03a"/>
+<path d="M385 406 Q387 372 400 373 Q413 372 415 406Z" fill="#d9622f"/><circle cx="400" cy="362" r="11" fill="#e8b98a"/><path d="M390 356 Q400 342 410 356Z" fill="#d9a03a"/>
+<path d="M451 406 Q453 372 466 373 Q479 372 481 406Z" fill="#a33a2a"/><circle cx="466" cy="362" r="11" fill="#e8b98a"/><path d="M456 356 Q466 342 476 356Z" fill="#d9a03a"/>
+<path d="M516 406 Q518 372 531 373 Q544 372 546 406Z" fill="#d9a03a"/><circle cx="531" cy="362" r="11" fill="#e8b98a"/><path d="M521 356 Q531 342 541 356Z" fill="#d9a03a"/>
+<path d="M582 406 Q584 372 597 373 Q610 372 612 406Z" fill="#2e5a48"/><circle cx="597" cy="362" r="11" fill="#e8b98a"/><path d="M587 356 Q597 342 607 356Z" fill="#d9a03a"/>
+<rect x="200.0" y="330" width="400" height="70" rx="3" fill="#fffdf7" stroke="#c9a866" stroke-width="2"/>
+<rect x="200.0" y="330" width="400" height="8" fill="#a33a2a"/>
+<path d="M234 336 Q236 302 249 303 Q262 302 264 336Z" fill="#1f2d4f"/><circle cx="249" cy="292" r="11" fill="#e8b98a"/><path d="M239 286 Q249 272 259 286Z" fill="#d9a03a"/>
+<path d="M272 336 Q274 302 287 303 Q300 302 302 336Z" fill="#7a3e6b"/><circle cx="287" cy="292" r="11" fill="#e8b98a"/><path d="M277 286 Q287 272 297 286Z" fill="#d9a03a"/>
+<path d="M309 336 Q311 302 324 303 Q337 302 339 336Z" fill="#d9622f"/><circle cx="324" cy="292" r="11" fill="#e8b98a"/><path d="M314 286 Q324 272 334 286Z" fill="#d9a03a"/>
+<path d="M347 336 Q349 302 362 303 Q375 302 377 336Z" fill="#a33a2a"/><circle cx="362" cy="292" r="11" fill="#e8b98a"/><path d="M352 286 Q362 272 372 286Z" fill="#d9a03a"/>
+<path d="M385 336 Q387 302 400 303 Q413 302 415 336Z" fill="#d9a03a"/><circle cx="400" cy="292" r="11" fill="#e8b98a"/><path d="M390 286 Q400 272 410 286Z" fill="#d9a03a"/>
+<path d="M423 336 Q425 302 438 303 Q451 302 453 336Z" fill="#2e5a48"/><circle cx="438" cy="292" r="11" fill="#e8b98a"/><path d="M428 286 Q438 272 448 286Z" fill="#d9a03a"/>
+<path d="M461 336 Q463 302 476 303 Q489 302 491 336Z" fill="#1f2d4f"/><circle cx="476" cy="292" r="11" fill="#e8b98a"/><path d="M466 286 Q476 272 486 286Z" fill="#d9a03a"/>
+<path d="M498 336 Q500 302 513 303 Q526 302 528 336Z" fill="#7a3e6b"/><circle cx="513" cy="292" r="11" fill="#e8b98a"/><path d="M503 286 Q513 272 523 286Z" fill="#d9a03a"/>
+<path d="M536 336 Q538 302 551 303 Q564 302 566 336Z" fill="#d9622f"/><circle cx="551" cy="292" r="11" fill="#e8b98a"/><path d="M541 286 Q551 272 561 286Z" fill="#d9a03a"/>
+<rect x="260.0" y="260" width="280" height="70" rx="3" fill="#fffdf7" stroke="#c9a866" stroke-width="2"/>
+<rect x="260.0" y="260" width="280" height="8" fill="#d9a03a"/>
+<path d="M285 266 Q287 232 300 233 Q313 232 315 266Z" fill="#7a3e6b"/><circle cx="300" cy="222" r="11" fill="#e8b98a"/><path d="M290 216 Q300 202 310 216Z" fill="#d9a03a"/>
+<path d="M305 266 Q307 232 320 233 Q333 232 335 266Z" fill="#d9622f"/><circle cx="320" cy="222" r="11" fill="#e8b98a"/><path d="M310 216 Q320 202 330 216Z" fill="#d9a03a"/>
+<path d="M325 266 Q327 232 340 233 Q353 232 355 266Z" fill="#a33a2a"/><circle cx="340" cy="222" r="11" fill="#e8b98a"/><path d="M330 216 Q340 202 350 216Z" fill="#d9a03a"/>
+<path d="M345 266 Q347 232 360 233 Q373 232 375 266Z" fill="#d9a03a"/><circle cx="360" cy="222" r="11" fill="#e8b98a"/><path d="M350 216 Q360 202 370 216Z" fill="#d9a03a"/>
+<path d="M365 266 Q367 232 380 233 Q393 232 395 266Z" fill="#2e5a48"/><circle cx="380" cy="222" r="11" fill="#e8b98a"/><path d="M370 216 Q380 202 390 216Z" fill="#d9a03a"/>
+<path d="M385 266 Q387 232 400 233 Q413 232 415 266Z" fill="#1f2d4f"/><circle cx="400" cy="222" r="11" fill="#e8b98a"/><path d="M390 216 Q400 202 410 216Z" fill="#d9a03a"/>
+<path d="M405 266 Q407 232 420 233 Q433 232 435 266Z" fill="#7a3e6b"/><circle cx="420" cy="222" r="11" fill="#e8b98a"/><path d="M410 216 Q420 202 430 216Z" fill="#d9a03a"/>
+<path d="M425 266 Q427 232 440 233 Q453 232 455 266Z" fill="#d9622f"/><circle cx="440" cy="222" r="11" fill="#e8b98a"/><path d="M430 216 Q440 202 450 216Z" fill="#d9a03a"/>
+<path d="M445 266 Q447 232 460 233 Q473 232 475 266Z" fill="#a33a2a"/><circle cx="460" cy="222" r="11" fill="#e8b98a"/><path d="M450 216 Q460 202 470 216Z" fill="#d9a03a"/>
+<path d="M465 266 Q467 232 480 233 Q493 232 495 266Z" fill="#d9a03a"/><circle cx="480" cy="222" r="11" fill="#e8b98a"/><path d="M470 216 Q480 202 490 216Z" fill="#d9a03a"/>
+<path d="M485 266 Q487 232 500 233 Q513 232 515 266Z" fill="#2e5a48"/><circle cx="500" cy="222" r="11" fill="#e8b98a"/><path d="M490 216 Q500 202 510 216Z" fill="#d9a03a"/>
+<ellipse cx="400" cy="552" rx="330" ry="14" fill="#c9a866" opacity=".35"/>
+</svg>
