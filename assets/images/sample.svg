@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 525" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract landscape</title>
+  <desc id="desc">Muted green and gold hills beneath a pale blue sky</desc>
+  <rect width="840" height="525" fill="#e8f1ed"/>
+  <circle cx="650" cy="150" r="75" fill="#e9c98a"/>
+  <path d="M0 340 Q160 180 345 330 T840 285 V525 H0Z" fill="#9cbfb0"/>
+  <path d="M0 425 Q220 280 455 410 T840 365 V525 H0Z" fill="#397d68"/>
+  <path d="M0 485 Q240 370 460 475 T840 440 V525 H0Z" fill="#215b4c"/>
+</svg>

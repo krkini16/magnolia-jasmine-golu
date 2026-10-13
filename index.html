@@ -1,2 +1,55 @@
-<head></head>
-<body>Hello</body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="A simple, mobile-friendly website with QR-linked pages." />
+    <title>Your Site</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-content">
+        <a class="brand" href="./">Your Site</a>
+        <span class="header-note">A simple collection of pages</span>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="hero">
+        <p class="eyebrow">Welcome</p>
+        <h1>Information worth sharing.</h1>
+        <p class="intro">
+          This is your homepage. Replace this text with an introduction to your
+          project, event, or collection.
+        </p>
+      </section>
+
+      <section class="section" aria-labelledby="pages-title">
+        <div class="section-heading">
+          <h2 id="pages-title">Explore</h2>
+          <p>Each page can have its own printable QR code.</p>
+        </div>
+        <div class="card-grid">
+          <a class="page-card" href="pages/example.html">
+            <img
+              src="assets/images/sample.svg"
+              alt="Simple abstract illustration of a landscape"
+              width="840"
+              height="525"
+            />
+            <div class="card-body">
+              <p class="card-kicker">Sample page</p>
+              <h3>Example page <span aria-hidden="true">↗</span></h3>
+              <p>See how a page with text and an image could look.</p>
+            </div>
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">Made with a few static files and GitHub Pages.</div>
+    </footer>
+  </body>
+</html>
