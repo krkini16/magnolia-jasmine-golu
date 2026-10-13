@@ -1,0 +1,77 @@
+<!--
+  STORY TEMPLATE — copy this file to stories/<your-slug>.html to add a story.
+
+  1. Choose a short, lowercase, hyphenated slug, e.g. "lakshmi-and-the-lotus".
+     The file name becomes the public URL, so choose it carefully.
+  2. Replace every REPLACE text below and change the data-story value to match.
+  3. Put your photos in assets/images/stories/<your-slug>/ (see README).
+  4. Add an entry for the story in assets/js/stories.js.
+  5. Regenerate the QR codes (see README).
+
+  Delete this comment block in your copy.
+-->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="REPLACE: one-sentence description of the story." />
+    <title>REPLACE: Story title · Golu</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="../assets/styles.css" />
+    <script src="../assets/js/stories.js" defer></script>
+    <script src="../assets/js/site.js" defer></script>
+  </head>
+  <body data-root="../" data-story="REPLACE-with-your-slug">
+    <a class="skip-link" href="#main">Skip to story</a>
+
+    <div class="layout">
+      <aside class="sidebar" data-sidebar></aside>
+
+      <main class="content" id="main">
+        <article class="story">
+          <header>
+            <p class="eyebrow">Story</p>
+            <h1>REPLACE: Story title</h1>
+            <p class="subtitle">REPLACE: optional one-line introduction. Delete this line if you do not need it.</p>
+          </header>
+
+          <figure class="plate">
+            <img
+              src="../assets/images/stories/REPLACE-with-your-slug/cover.jpg"
+              alt="REPLACE: describe what is visible in the photograph."
+              width="1200"
+              height="900"
+            />
+            <figcaption>REPLACE: caption for the main photograph (optional).</figcaption>
+          </figure>
+
+          <h2>REPLACE: first section heading</h2>
+          <p>REPLACE: first paragraph of the story.</p>
+          <p>REPLACE: second paragraph of the story.</p>
+
+          <figure class="plate">
+            <img
+              src="../assets/images/stories/REPLACE-with-your-slug/01-detail.jpg"
+              alt="REPLACE: describe this supporting photograph."
+              width="1200"
+              height="900"
+            />
+            <figcaption>REPLACE: caption for this supporting photograph (optional).</figcaption>
+          </figure>
+
+          <h2>REPLACE: second section heading</h2>
+          <p>REPLACE: more story text. Add or remove sections as needed.</p>
+        </article>
+
+        <nav class="story-footer" data-related aria-label="More stories"></nav>
+
+        <footer class="site-footer">
+          <p>Golu · Navaratri stories</p>
+        </footer>
+      </main>
+    </div>
+  </body>
+</html>

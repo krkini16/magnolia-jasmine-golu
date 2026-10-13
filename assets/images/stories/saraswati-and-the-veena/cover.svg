@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Veena surrounded by lotus flowers</title>
+  <desc id="desc">Placeholder illustration of a veena with lotus petals and a seated figure</desc>
+<rect width="800" height="600" fill="#f6ecd6"/>
+<rect x="14" y="14" width="772" height="572" fill="none" stroke="#c9a866" stroke-width="1.5"/><rect x="24" y="24" width="752" height="552" fill="none" stroke="#c9a866" stroke-width=".7" opacity=".7"/><circle cx="40" cy="22" r="2" fill="#c9a866"/><circle cx="40" cy="578" r="2" fill="#c9a866"/><circle cx="80" cy="22" r="2" fill="#c9a866"/><circle cx="80" cy="578" r="2" fill="#c9a866"/><circle cx="120" cy="22" r="2" fill="#c9a866"/><circle cx="120" cy="578" r="2" fill="#c9a866"/><circle cx="160" cy="22" r="2" fill="#c9a866"/><circle cx="160" cy="578" r="2" fill="#c9a866"/><circle cx="200" cy="22" r="2" fill="#c9a866"/><circle cx="200" cy="578" r="2" fill="#c9a866"/><circle cx="240" cy="22" r="2" fill="#c9a866"/><circle cx="240" cy="578" r="2" fill="#c9a866"/><circle cx="280" cy="22" r="2" fill="#c9a866"/><circle cx="280" cy="578" r="2" fill="#c9a866"/><circle cx="320" cy="22" r="2" fill="#c9a866"/><circle cx="320" cy="578" r="2" fill="#c9a866"/><circle cx="360" cy="22" r="2" fill="#c9a866"/><circle cx="360" cy="578" r="2" fill="#c9a866"/><circle cx="400" cy="22" r="2" fill="#c9a866"/><circle cx="400" cy="578" r="2" fill="#c9a866"/><circle cx="440" cy="22" r="2" fill="#c9a866"/><circle cx="440" cy="578" r="2" fill="#c9a866"/><circle cx="480" cy="22" r="2" fill="#c9a866"/><circle cx="480" cy="578" r="2" fill="#c9a866"/><circle cx="520" cy="22" r="2" fill="#c9a866"/><circle cx="520" cy="578" r="2" fill="#c9a866"/><circle cx="560" cy="22" r="2" fill="#c9a866"/><circle cx="560" cy="578" r="2" fill="#c9a866"/><circle cx="600" cy="22" r="2" fill="#c9a866"/><circle cx="600" cy="578" r="2" fill="#c9a866"/><circle cx="640" cy="22" r="2" fill="#c9a866"/><circle cx="640" cy="578" r="2" fill="#c9a866"/><circle cx="680" cy="22" r="2" fill="#c9a866"/><circle cx="680" cy="578" r="2" fill="#c9a866"/><circle cx="720" cy="22" r="2" fill="#c9a866"/><circle cx="720" cy="578" r="2" fill="#c9a866"/><circle cx="760" cy="22" r="2" fill="#c9a866"/><circle cx="760" cy="578" r="2" fill="#c9a866"/>
+<ellipse cx="400" cy="420" rx="22" ry="60" fill="#d9a03a" opacity=".8" transform="rotate(0 400 420) translate(0 -60)"/>
+<ellipse cx="400" cy="420" rx="22" ry="60" fill="#a33a2a" opacity=".8" transform="rotate(45 400 420) translate(0 -60)"/>
+<ellipse cx="400" cy="420" rx="22" ry="60" fill="#d9a03a" opacity=".8" transform="rotate(90 400 420) translate(0 -60)"/>
+<ellipse cx="400" cy="420" rx="22" ry="60" fill="#a33a2a" opacity=".8" transform="rotate(135 400 420) translate(0 -60)"/>
+<ellipse cx="400" cy="420" rx="22" ry="60" fill="#d9a03a" opacity=".8" transform="rotate(180 400 420) translate(0 -60)"/>
+<ellipse cx="400" cy="420" rx="22" ry="60" fill="#a33a2a" opacity=".8" transform="rotate(225 400 420) translate(0 -60)"/>
+<ellipse cx="400" cy="420" rx="22" ry="60" fill="#d9a03a" opacity=".8" transform="rotate(270 400 420) translate(0 -60)"/>
+<ellipse cx="400" cy="420" rx="22" ry="60" fill="#a33a2a" opacity=".8" transform="rotate(315 400 420) translate(0 -60)"/>
+<ellipse cx="330" cy="370" rx="70" ry="90" fill="#7a4e2d"/>
+<ellipse cx="330" cy="370" rx="42" ry="58" fill="#5b3a20"/>
+<rect x="380" y="200" width="200" height="22" rx="10" fill="#7a4e2d" transform="rotate(-15 380 211)"/>
+<circle cx="590" cy="170" r="20" fill="#c9a866"/>
+<line x1="300" y1="290" x2="300" y2="455" stroke="#c9a866" stroke-width="1.5"/>
+<line x1="318" y1="290" x2="318" y2="455" stroke="#c9a866" stroke-width="1.5"/>
+<line x1="336" y1="290" x2="336" y2="455" stroke="#c9a866" stroke-width="1.5"/>
+<line x1="354" y1="290" x2="354" y2="455" stroke="#c9a866" stroke-width="1.5"/>
+<path d="M430 470 Q470 330 500 300 Q530 330 560 470Z" fill="#fffdf7" stroke="#c9a866" stroke-width="2"/>
+<circle cx="500" cy="270" r="30" fill="#e8b98a"/>
+</svg>

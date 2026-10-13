@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Goddess Durga beside a lion and a defeated buffalo demon</title>
+  <desc id="desc">Placeholder illustration: a many-armed goddess with a lion and a buffalo</desc>
+<rect width="800" height="600" fill="#f6ecd6"/>
+<rect x="14" y="14" width="772" height="572" fill="none" stroke="#c9a866" stroke-width="1.5"/><rect x="24" y="24" width="752" height="552" fill="none" stroke="#c9a866" stroke-width=".7" opacity=".7"/><circle cx="40" cy="22" r="2" fill="#c9a866"/><circle cx="40" cy="578" r="2" fill="#c9a866"/><circle cx="80" cy="22" r="2" fill="#c9a866"/><circle cx="80" cy="578" r="2" fill="#c9a866"/><circle cx="120" cy="22" r="2" fill="#c9a866"/><circle cx="120" cy="578" r="2" fill="#c9a866"/><circle cx="160" cy="22" r="2" fill="#c9a866"/><circle cx="160" cy="578" r="2" fill="#c9a866"/><circle cx="200" cy="22" r="2" fill="#c9a866"/><circle cx="200" cy="578" r="2" fill="#c9a866"/><circle cx="240" cy="22" r="2" fill="#c9a866"/><circle cx="240" cy="578" r="2" fill="#c9a866"/><circle cx="280" cy="22" r="2" fill="#c9a866"/><circle cx="280" cy="578" r="2" fill="#c9a866"/><circle cx="320" cy="22" r="2" fill="#c9a866"/><circle cx="320" cy="578" r="2" fill="#c9a866"/><circle cx="360" cy="22" r="2" fill="#c9a866"/><circle cx="360" cy="578" r="2" fill="#c9a866"/><circle cx="400" cy="22" r="2" fill="#c9a866"/><circle cx="400" cy="578" r="2" fill="#c9a866"/><circle cx="440" cy="22" r="2" fill="#c9a866"/><circle cx="440" cy="578" r="2" fill="#c9a866"/><circle cx="480" cy="22" r="2" fill="#c9a866"/><circle cx="480" cy="578" r="2" fill="#c9a866"/><circle cx="520" cy="22" r="2" fill="#c9a866"/><circle cx="520" cy="578" r="2" fill="#c9a866"/><circle cx="560" cy="22" r="2" fill="#c9a866"/><circle cx="560" cy="578" r="2" fill="#c9a866"/><circle cx="600" cy="22" r="2" fill="#c9a866"/><circle cx="600" cy="578" r="2" fill="#c9a866"/><circle cx="640" cy="22" r="2" fill="#c9a866"/><circle cx="640" cy="578" r="2" fill="#c9a866"/><circle cx="680" cy="22" r="2" fill="#c9a866"/><circle cx="680" cy="578" r="2" fill="#c9a866"/><circle cx="720" cy="22" r="2" fill="#c9a866"/><circle cx="720" cy="578" r="2" fill="#c9a866"/><circle cx="760" cy="22" r="2" fill="#c9a866"/><circle cx="760" cy="578" r="2" fill="#c9a866"/>
+<circle cx="400" cy="300" r="210" fill="#d9a03a" opacity=".12"/>
+<line x1="400" y1="300" x2="270" y2="225" stroke="#a33a2a" stroke-width="10" stroke-linecap="round"/>
+<circle cx="270" cy="225" r="9" fill="#d9a03a"/>
+<line x1="400" y1="300" x2="337" y2="164" stroke="#a33a2a" stroke-width="10" stroke-linecap="round"/>
+<circle cx="337" cy="164" r="9" fill="#d9a03a"/>
+<line x1="400" y1="300" x2="451" y2="159" stroke="#a33a2a" stroke-width="10" stroke-linecap="round"/>
+<circle cx="451" cy="159" r="9" fill="#d9a03a"/>
+<line x1="400" y1="300" x2="536" y2="237" stroke="#a33a2a" stroke-width="10" stroke-linecap="round"/>
+<circle cx="536" cy="237" r="9" fill="#d9a03a"/>
+<line x1="400" y1="300" x2="264" y2="237" stroke="#a33a2a" stroke-width="10" stroke-linecap="round"/>
+<circle cx="264" cy="237" r="9" fill="#d9a03a"/>
+<line x1="400" y1="300" x2="337" y2="164" stroke="#a33a2a" stroke-width="10" stroke-linecap="round"/>
+<circle cx="337" cy="164" r="9" fill="#d9a03a"/>
+<path d="M340 330 L460 330 L490 560 L310 560Z" fill="#a33a2a"/>
+<circle cx="400" cy="250" r="42" fill="#e8b98a"/>
+<path d="M360 222 L372 180 L388 210 L400 172 L412 210 L428 180 L440 222Z" fill="#d9a03a"/>
+<ellipse cx="200" cy="470" rx="95" ry="50" fill="#d9a03a"/>
+<circle cx="112" cy="440" r="40" fill="#d9a03a"/>
+<circle cx="112" cy="440" r="26" fill="#c77a2a"/>
+<ellipse cx="620" cy="500" rx="110" ry="60" fill="#1f2d4f" opacity=".85"/>
+<path d="M560 460 Q520 400 545 380 M680 460 Q720 400 695 380" fill="none" stroke="#1f2d4f" stroke-width="12" stroke-linecap="round"/>
+</svg>

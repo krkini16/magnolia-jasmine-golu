@@ -3,53 +3,87 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="A simple, mobile-friendly website with QR-linked pages." />
-    <title>Your Site</title>
+    <meta name="description" content="Golu: the South Indian Navaratri tradition of displaying dolls on tiered steps, and the stories they tell." />
+    <title>Golu · Dolls, Stories, and Navaratri</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="assets/styles.css" />
+    <script src="assets/js/stories.js" defer></script>
+    <script src="assets/js/site.js" defer></script>
   </head>
-  <body>
-    <header class="site-header">
-      <div class="container header-content">
-        <a class="brand" href="./">Your Site</a>
-        <span class="header-note">A simple collection of pages</span>
-      </div>
-    </header>
+  <body data-root="./" data-page="home">
+    <a class="skip-link" href="#main">Skip to content</a>
 
-    <main class="container">
-      <section class="hero">
-        <p class="eyebrow">Welcome</p>
-        <h1>Information worth sharing.</h1>
-        <p class="intro">
-          This is your homepage. Replace this text with an introduction to your
-          project, event, or collection.
-        </p>
-      </section>
+    <div class="layout">
+      <aside class="sidebar" data-sidebar></aside>
 
-      <section class="section" aria-labelledby="pages-title">
-        <div class="section-heading">
-          <h2 id="pages-title">Explore</h2>
-          <p>Each page can have its own printable QR code.</p>
-        </div>
-        <div class="card-grid">
-          <a class="page-card" href="pages/example.html">
+      <main class="content" id="main">
+        <!-- HERO -->
+        <section class="hero" aria-labelledby="golu-title">
+          <div>
+            <p class="eyebrow">Navaratri · South India</p>
+            <h1 id="golu-title">Golu</h1>
+            <p class="lede">
+              Welcome. This is a small collection of stories told through the dolls and
+              figures of Golu, the festive display that brings Navaratri into the home.
+            </p>
+          </div>
+          <figure class="plate hero-art">
             <img
-              src="assets/images/sample.svg"
-              alt="Simple abstract illustration of a landscape"
-              width="840"
-              height="525"
+              src="assets/images/golu-hero.svg"
+              alt="Illustration of dolls arranged on tiered steps, with a decorative pot at the top"
+              width="1000"
+              height="800"
             />
-            <div class="card-body">
-              <p class="card-kicker">Sample page</p>
-              <h3>Example page <span aria-hidden="true">↗</span></h3>
-              <p>See how a page with text and an image could look.</p>
-            </div>
-          </a>
-        </div>
-      </section>
-    </main>
+            <figcaption>An illustration of a Golu arrangement.</figcaption>
+          </figure>
+        </section>
 
-    <footer class="site-footer">
-      <div class="container">Made with a few static files and GitHub Pages.</div>
-    </footer>
+        <div class="ornament" aria-hidden="true"><span></span></div>
+
+        <!-- WHAT IS GOLU? — edit this text in index.html -->
+        <section class="about" id="about" aria-labelledby="about-title">
+          <h2 id="about-title">What is Golu?</h2>
+          <p>
+            Golu, also called Kolu or Bommai Golu, is a tradition from South India that is
+            observed during Navaratri, the festival of nine nights. Families arrange dolls and
+            figurines on a set of steps, often covered with white cloth, to create a display
+            that can be viewed from the front.
+          </p>
+          <p>
+            The steps are usually built in an odd number, such as three, five, or seven. Each
+            tier holds a different group of figures. Some are deities and mythological
+            characters, some are animals, and some are everyday scenes such as a market, a
+            village, or a garden. Together they form a kind of picture book that rewards slow
+            looking.
+          </p>
+          <p>
+            Navaratri honours the goddess in her many forms and celebrates the triumph of good
+            over evil. The festival closes on the tenth day, Vijayadashami. Golu is set up for
+            the nine nights, and many families begin with a prayer and a lamp each evening.
+          </p>
+          <p>
+            Golu is also a time for community. Families invite neighbours, relatives, and
+            children to visit the display. Guests are offered sweets and small gifts, and songs
+            are sung. Storytelling passes from older family members to younger ones as the
+            figures are explained, so the tradition lives on from one generation to the next.
+          </p>
+        </section>
+
+        <div class="ornament" aria-hidden="true"><span></span></div>
+
+        <!-- EXPLORE THE STORIES — generated from assets/js/stories.js -->
+        <section aria-labelledby="stories-title">
+          <h2 id="stories-title">Explore the stories</h2>
+          <p>Each story is told through a figure or scene from the display.</p>
+          <div class="story-cards" data-story-cards></div>
+        </section>
+
+        <footer class="site-footer">
+          <p>Golu · Navaratri stories</p>
+        </footer>
+      </main>
+    </div>
   </body>
 </html>
