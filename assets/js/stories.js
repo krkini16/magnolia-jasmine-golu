@@ -19,24 +19,59 @@
  */
 window.GOLU_STORIES = [
   {
-    slug: "durga-and-mahishasura",
-    title: "Durga and the Buffalo Demon",
-    summary: "How the goddess Durga, born from the combined energy of the gods, overcame the shape-shifting demon Mahishasura.",
-    cover: "assets/images/stories/durga-and-mahishasura/cover.svg",
-    coverAlt: "Placeholder illustration of a crowned goddess with many arms beside a lion"
+    slug: "lakshmi-goddess-of-wealth",
+    title: "Lakshmi: Goddess of Wealth",
+    summary: "Discover Lakshmi, the goddess of prosperity, and the lotus, coins, and generous spirit that surround her in a Golu display.",
+    cover: "assets/images/stories/lakshmi-goddess-of-wealth/lakshmi.png",
+    coverAlt: "Lakshmi seated on a pink lotus, holding lotus flowers"
+  },
+  {
+    slug: "dashavatar",
+    title: "Dashavatar",
+    summary: "Follow Vishnu’s ten avatars, from Matsya to Kalki, and the stories of protection and renewal they bring to a Golu display.",
+    cover: "assets/images/stories/dashavatar/dashavatar.png",
+    coverAlt: "A colorful row of ten Dashavatara Golu dolls on red pedestals"
+  },
+  {
+    slug: "bhagavad-gita",
+    title: "Bhagavad Gita",
+    summary: "Krishna guides Arjuna on a golden chariot in this scene of counsel, courage, and purpose.",
+    cover: "assets/images/stories/bhagavad-gita/krishna-arjuna-chariot.png",
+    coverAlt: "Krishna and Arjuna in a golden chariot pulled by white horses"
+  },
+  {
+    slug: "avvaiyar-and-murugan",
+    title: "Muruga, Avvaiyar, and the Hot Fruit",
+    summary: "A playful question beneath a naval tree reminds the celebrated poet Avvaiyar that wisdom always has more to learn.",
+    cover: "assets/images/stories/avvaiyar-and-murugan/avvaiyar-and-murugan.png",
+    coverAlt: "Muruga in a leafy jamun tree, holding a purple fruit while Avvaiyar stands below"
+  },
+  {
+    slug: "murugan",
+    title: "Murugan: Courage, Wisdom, and Devotion",
+    summary: "Meet Murugan, the deity of courage and wisdom, and learn how Valli and Deivanai reflect devotion, duty, and action.",
+    cover: "assets/images/stories/murugan/murugan.png",
+    coverAlt: "Murugan standing between Deivanai and Valli beneath an ornate stone arch"
+  },
+  {
+    slug: "marapachi-bommai",
+    title: "Marapachi Bommai – A Wedding Tradition",
+    summary: "The traditional wooden bride-and-groom dolls gifted to newly married couples so they can begin their own Golu tradition.",
+    cover: "assets/images/stories/marapachi-bommai/marapachi-bommai.png",
+    coverAlt: "A pair of traditional Marapachi Bommai wooden dolls dressed as a bride and groom"
   },
   {
     slug: "ganesha-and-the-mooshika",
-    title: "Ganesha and the Mooshika",
-    summary: "How the elephant-headed Ganesha subdued a proud demon, who became the small mouse that carries him.",
-    cover: "assets/images/stories/ganesha-and-the-mooshika/cover.svg",
-    coverAlt: "Placeholder illustration of an elephant-headed figure with a small mouse at its feet"
+    title: "Ganesha: God of New Beginnings",
+    summary: "Meet the elephant-headed deity of wisdom, new beginnings, and the small mouse that carries a big lesson.",
+    cover: "assets/images/stories/ganesha-and-the-mooshika/ganesha.png",
+    coverAlt: "Ganesha seated on a lotus, with a mouse at his feet"
   },
   {
     slug: "saraswati-and-the-veena",
     title: "Saraswati and the Veena",
     summary: "The goddess of learning and music, whose veena and books are honoured in the final days of Navaratri.",
-    cover: "assets/images/stories/saraswati-and-the-veena/cover.svg",
-    coverAlt: "Placeholder illustration of a veena surrounded by lotus flowers"
+    cover: "assets/images/stories/saraswati-and-the-veena/saraswati.png",
+    coverAlt: "Saraswati seated on a pink lotus, playing the veena"
   }
 ];

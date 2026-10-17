@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Story image placeholder</title>
+  <desc id="desc">A decorative frame with an invitation to add a photograph or illustration.</desc>
+  <rect width="800" height="600" fill="#f6edd9"/>
+  <rect x="34" y="34" width="732" height="532" rx="10" fill="#fffdf7" stroke="#c9a866" stroke-width="4"/>
+  <path d="M92 130h616M92 470h616" stroke="#d9a03a" stroke-width="3"/>
+  <path d="M160 240c0-44 36-80 80-80s80 36 80 80-36 80-80 80-80-36-80-80Zm400 0c0-44 36-80 80-80s80 36 80 80-36 80-80 80-80-36-80-80Z" fill="none" stroke="#a33a2a" stroke-width="6"/>
+  <path d="M240 320l82 78 86-108 78 94 70-64 82 78" fill="none" stroke="#c9a866" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="112" text-anchor="middle" fill="#a33a2a" font-family="Georgia, serif" font-size="30">YOUR GOLU FIGURE</text>
+  <text x="400" y="520" text-anchor="middle" fill="#6b5d4f" font-family="Arial, sans-serif" font-size="24">Replace this with a photograph or illustration</text>
+</svg>

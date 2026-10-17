@@ -14,7 +14,12 @@ Pages. A small script still generates printable QR codes for each page.
 ```text
 index.html                         Homepage: hero, "What is Golu?", story cards
 stories/                           One HTML file per story (the public story pages)
-  durga-and-mahishasura.html         sample story
+  lakshmi-goddess-of-wealth.html     starter story
+  dashavatar.html                     starter story
+  bhagavad-gita.html                  starter story
+  avvaiyar-and-murugan.html           starter story
+  murugan.html                        starter story
+  marapachi-bommai.html               starter story
   ganesha-and-the-mooshika.html      sample story
   saraswati-and-the-veena.html       sample story
 templates/story-template.html      Copy this to start a new story
@@ -22,7 +27,7 @@ assets/
   styles.css                       All styling (colours and fonts are at the top)
   js/stories.js                    THE STORY INDEX: the one list of stories
   js/site.js                       Builds the sidebar and story lists (rarely edited)
-  images/golu-hero.svg             Homepage illustration (placeholder)
+  images/golu-hero.png             Homepage illustration
   images/stories/<slug>/           Photographs and images, one folder per story
 scripts/generate_qr.py             Creates the printable QR codes
 site.json                          The public website address (used for QR codes)
@@ -48,7 +53,7 @@ Then open <http://localhost:8000/>. Refresh the page after each change.
 - **"What is Golu?"** text: in `index.html`, in the section marked
   `<!-- WHAT IS GOLU? -->`. It is ordinary paragraphs wrapped in `<p>…</p>`.
   Edit the words between the tags and keep the tags.
-- **Hero illustration**: replace `assets/images/golu-hero.svg` with your own image
+- **Hero illustration**: replace `assets/images/golu-hero.png` with your own image
   (same file name), or change the `src` in `index.html` to a new file.
 
 ## Add a new story
@@ -175,7 +180,7 @@ The script finds every page automatically and writes one SVG per page:
 
 ```text
 qr-codes/home.svg                              → the homepage
-qr-codes/stories--durga-and-mahishasura.svg    → a story page
+qr-codes/stories--lakshmi-goddess-of-wealth.svg → a story page
 qr-codes/stories--<slug>.svg                   → one file per story
 ```
 
@@ -208,11 +213,10 @@ would point to the top of your GitHub account rather than to your site.
 
 ## Limitations and assumptions
 
-- **Sample content.** The three story pages (*Durga and the Buffalo Demon*,
-  *Ganesha and the Mooshika*, *Saraswati and the Veena*) are examples of
-  mythological background, written to show the layout. The "What is Golu?"
-  introduction is general and should be checked and edited to suit your display.
-  Each is marked "Sample story" on its page. Replace them with your own text.
+- **Sample and starter content.** The Ganesha and Saraswati pages are examples of
+  mythological background. The six newer pages are starter stories with prompts
+  to tailor to your own display. The "What is Golu?" introduction is general and
+  should be checked and edited to suit your display.
 - **Placeholder images.** The illustrations are simple SVG artwork, not photographs.
 - **JavaScript is needed for the navigation.** The sidebar, the story cards, and the
   "More stories" section are filled in by `assets/js/site.js`. If JavaScript is
